@@ -57,7 +57,7 @@ kramdown:
       line_numbers: true
       start_line: 1
 
-# Disqus settings
+# Disqus settings 博客评论平台，需要注册账号，并且激活博客评论
 disqus_username: zbqhew
 
 # Netease settings
