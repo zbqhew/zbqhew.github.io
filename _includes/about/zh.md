@@ -2,5 +2,5 @@
 
 本博客仅为个人记笔记使用。
 
-本人公开博客地址为 https://jupeiqi.top ，欢迎前去探索交流。
+本人公开博客地址为 [Peiqi Blog](https://jupeiqi.top) https://jupeiqi.top ，欢迎前去探索交流。
 
