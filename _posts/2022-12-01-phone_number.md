@@ -3,7 +3,7 @@
 <button class="btn1">急救</button>
 <button class="btn2">负压</button>
 
-<div class="fuya" align="center"><h2>负压常用通讯录</br></br></h2></div>
+<div class="fuya" align="center"><h2>负压常用通讯录</br></h2></div>
 
 <div class="fuya" align="left"><a href="tel:87837945">门卫座机，早晨7点至晚上12点拨打：87837945</br></br></a></div>
 <div class="fuya" align="left"><a href="tel:18112139271">门卫手机，晚上12点至次日7点拨打：18112139271</br></br></a></div>
