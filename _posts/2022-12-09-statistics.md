@@ -116,6 +116,9 @@ P小于0.05的正确表述
 ![](/img/in-post/statistics/statistics-9.jpg)
 
 
+回归分析方法选择流程图
+![](/img/in-post/statistics/statistics-10.jpg)
+
 
 
 

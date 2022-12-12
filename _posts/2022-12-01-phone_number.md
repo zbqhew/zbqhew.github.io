@@ -100,6 +100,11 @@
 <div class="fuya" align="left"><a href="tel:87937318">中医院发热门诊：87937318</a></div>
 
 
+<div class="fuya" align="left"><h3>三院阳性门诊</h3></div>
+<div class="fuya" align="left"><a href="tel:15312827913">三院阳性门诊1： 15312827913</a></div>
+<div class="fuya" align="left"><a href="tel:19962631925">三院阳性门诊2： 19962631925</a></div>
+<div class="fuya" align="left"><a href="tel:15366918076">三院阳性门诊3： 15366918076</a></div>
+
 
 <div class="jijiu" align="center"><h2>主城区发热门诊接诊范围</h2></div>
 
